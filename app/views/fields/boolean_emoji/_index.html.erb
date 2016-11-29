@@ -10,6 +10,6 @@ This partial renders an emoji based on the value of the attribute.
   A wrapper around the attribute pulled from the database.
 %>
 
-<% if field.data.present? %>
+<% unless field.data.nil? %>
   <%= field.data ? field.positive_emoji : field.negative_emoji %>
 <% end %>
