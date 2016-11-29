@@ -1,0 +1,15 @@
+<%#
+# BooleanEmoji Show Partial
+
+This partial renders an emoji based on the value of the attribute.
+
+## Local variables:
+
+- `field`:
+  An instance of Administrate::Field::BooleanEmoji.
+  A wrapper around the attribute pulled from the database.
+%>
+
+<% unless field.data.nil? %>
+  <%= field.data ? field.positive_emoji : field.negative_emoji %>
+<% end %>

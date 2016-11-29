@@ -1,0 +1,21 @@
+<%#
+# BooleanEmoji Form Partial
+
+This partial renders an input element for a boolean attribute.
+By default, the input is a checkbox.
+
+## Local variables:
+
+- `f`:
+  A Rails form generator, used to help create the appropriate input fields.
+- `field`:
+  An instance of Administrate::Field::BooleanEmoji.
+  A wrapper around the attribute pulled from the database.
+%>
+
+<div class="field-unit__label">
+  <%= f.label field.attribute %>
+</div>
+<div class="field-unit__field">
+  <%= f.check_box field.attribute %>
+</div>
