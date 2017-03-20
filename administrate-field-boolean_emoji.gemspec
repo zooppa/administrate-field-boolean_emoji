@@ -5,7 +5,7 @@ Gem::Specification.new do |gem|
   gem.version = '0.0.2'
   gem.authors = ['Michele Gerarduzzi']
   gem.email = ['michele.gerarduzzi@gmail.com']
-  gem.homepage = 'https://github.com/z-productions/administrate-field-boolean_emoji'
+  gem.homepage = 'https://github.com/zooppa/administrate-field-boolean_emoji'
   gem.summary = 'A plugin to visually display boolean fields in Administrate'
   gem.description = gem.summary
   gem.license = 'MIT'
