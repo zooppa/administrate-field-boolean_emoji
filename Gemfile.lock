@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    administrate-field-boolean_emoji (0.0.3)
+    administrate-field-boolean_emoji (0.0.4)
       administrate (< 1.0.0)
       rails (>= 4.2)
 

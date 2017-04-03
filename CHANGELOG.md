@@ -1,5 +1,10 @@
 # Changelog
 
+## [v0.0.4](https://github.com/zooppa/administrate-field-boolean_emoji/tree/v0.0.4) (2017-04-03)
+[Full Changelog](https://github.com/zooppa/administrate-field-boolean_emoji/compare/v0.0.3...v0.0.4)
+
+* Bump up Administrate dependency
+
 ## [v0.0.3](https://github.com/zooppa/administrate-field-boolean_emoji/tree/v0.0.3) (2017-03-20)
 [Full Changelog](https://github.com/zooppa/administrate-field-boolean_emoji/compare/v0.0.2...v0.0.3)
 
