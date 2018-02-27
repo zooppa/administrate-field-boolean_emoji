@@ -1,0 +1,7 @@
+---
+ko:
+  administrate:
+    fields:
+      boolean_emoji:
+        'false': 아니
+        'true': 예

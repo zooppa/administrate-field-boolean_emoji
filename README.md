@@ -26,6 +26,18 @@ ATTRIBUTE_TYPES = {
 }.freeze
 ```
 
+## Customize
+
+Customize or overwrite the labels by just adding this to your `config/locales/*.yml`.
+
+```yml
+administrate:
+  fields:
+    boolean_emoji:
+      'false': "👎"
+      'true': "👍"
+```
+
 ## About
 
 `Administrate::Field::BooleanEmoji` is maintained by [z.productions].

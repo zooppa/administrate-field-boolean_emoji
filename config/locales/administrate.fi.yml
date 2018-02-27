@@ -1,0 +1,7 @@
+---
+fi:
+  administrate:
+    fields:
+      boolean_emoji:
+        'false': Ei
+        'true': Joo

@@ -1,0 +1,7 @@
+---
+pl:
+  administrate:
+    fields:
+      boolean_emoji:
+        'false': Ne
+        'true': Ano
