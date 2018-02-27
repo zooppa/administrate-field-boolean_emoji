@@ -1,0 +1,7 @@
+---
+ja:
+  administrate:
+    fields:
+      boolean_emoji:
+        'false': いいえ
+        'true': はい
