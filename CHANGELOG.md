@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.1.0](https://github.com/zooppa/administrate-field-boolean_emoji/tree/v0.1.0) (2018-03-01)
+
+[Full Changelog](https://github.com/zooppa/administrate-field-boolean_emoji/compare/v0.0.4...v0.1.0)
+
+* Localize boolean output
+
 ## [v0.0.4](https://github.com/zooppa/administrate-field-boolean_emoji/tree/v0.0.4) (2017-04-03)
 
 [Full Changelog](https://github.com/zooppa/administrate-field-boolean_emoji/compare/v0.0.3...v0.0.4)
