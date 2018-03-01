@@ -28,7 +28,7 @@ ATTRIBUTE_TYPES = {
 
 ## About
 
-`Administrate::Field::BooleanEmoji` is maintained by [z.productions].
+`Administrate::Field::BooleanEmoji` is maintained by [zooppa].
 
-[Administrate]: https://github.com/thoughtbot/administrate
-[z.productions]: https://www.z.productions/
+[administrate]: https://github.com/thoughtbot/administrate
+[zooppa]: https://www.zooppa.com/
