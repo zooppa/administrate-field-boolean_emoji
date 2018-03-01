@@ -1,0 +1,7 @@
+---
+es:
+  administrate:
+    fields:
+      boolean_emoji:
+        'false': No
+        'true': Sí
