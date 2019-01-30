@@ -3,8 +3,8 @@ $:.push File.expand_path('../lib', __FILE__)
 Gem::Specification.new do |gem|
   gem.name = 'administrate-field-boolean_emoji'
   gem.version = '0.1.0'
-  gem.authors = ['Michele Gerarduzzi']
-  gem.email = ['michele.gerarduzzi@gmail.com']
+  gem.authors = ['Zooppa']
+  gem.email = ['dev@zooppa.com']
   gem.homepage = 'https://github.com/zooppa/administrate-field-boolean_emoji'
   gem.summary = 'Boolean fields custom visualization in Administrate'
   gem.description = 'A plugin to visually display boolean fields in Administrate'
