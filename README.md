@@ -43,5 +43,7 @@ administrate:
 
 `Administrate::Field::BooleanEmoji` is maintained by [zooppa].
 
+See also the list of [contributors](https://github.com/zooppa/administrate-field-boolean_emoji/contributors) who participated in this project.
+
 [administrate]: https://github.com/thoughtbot/administrate
 [zooppa]: https://www.zooppa.com/
