@@ -10,7 +10,7 @@ A plugin to visually display boolean fields in [Administrate].
 Add it to your `Gemfile`:
 
 ```ruby
-gem 'administrate-field-boolean_emoji', '~> 0.1.0'
+gem 'administrate-field-boolean_emoji', '~> 0.2.0'
 ```
 
 Run:
