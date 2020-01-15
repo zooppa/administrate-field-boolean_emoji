@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.2.0](https://github.com/zooppa/administrate-field-boolean_emoji/tree/v0.2.1) (2020-01-15)
+
+[Full Changelog](https://github.com/zooppa/administrate-field-boolean_emoji/compare/v0.2.0...v0.2.1)
+
+* Require Rack greater than 2.0.8
+
 ## [v0.2.0](https://github.com/zooppa/administrate-field-boolean_emoji/tree/v0.2.0) (2018-08-27)
 
 [Full Changelog](https://github.com/zooppa/administrate-field-boolean_emoji/compare/v0.1.0...v0.2.0)
