@@ -1,6 +1,7 @@
 # Administrate::Field::BooleanEmoji
 
-[![Build Status](https://travis-ci.com/zooppa/administrate-field-boolean_emoji.svg?branch=master)](https://travis-ci.com/zooppa/administrate-field-boolean_emoji)
+[![Build status](https://github.com/zooppa/administrate-field-boolean_emoji/actions/workflows/build.yml/badge.svg)](https://github.com/zooppa/administrate-field-boolean_emoji/actions/workflows/build.yml)
+
 [![Code Climate](https://codeclimate.com/github/zooppa/administrate-field-boolean_emoji/badges/gpa.svg)](https://codeclimate.com/github/zooppa/administrate-field-boolean_emoji)
 
 A plugin to visually display boolean fields in [Administrate].
