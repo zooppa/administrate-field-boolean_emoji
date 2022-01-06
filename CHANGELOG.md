@@ -1,6 +1,12 @@
 # Changelog
 
-## [v0.2.0](https://github.com/zooppa/administrate-field-boolean_emoji/tree/v0.2.1) (2020-01-15)
+## [v0.3.0](https://github.com/zooppa/administrate-field-boolean_emoji/tree/v0.3.0) (2022-01-06)
+
+[Full Changelog](https://github.com/zooppa/administrate-field-boolean_emoji/compare/v0.2.1...v0.3.0)
+
+* Add support for Rails 7 (thanks @neumayr)
+
+## [v0.2.1](https://github.com/zooppa/administrate-field-boolean_emoji/tree/v0.2.1) (2020-01-15)
 
 [Full Changelog](https://github.com/zooppa/administrate-field-boolean_emoji/compare/v0.2.0...v0.2.1)
 
